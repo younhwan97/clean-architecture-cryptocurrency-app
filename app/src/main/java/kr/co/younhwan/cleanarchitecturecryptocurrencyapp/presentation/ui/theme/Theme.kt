@@ -1,4 +1,4 @@
-package kr.co.younhwan.cleanarchitecturecryptocurrencyapp.ui.theme
+package kr.co.younhwan.cleanarchitecturecryptocurrencyapp.presentation.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
